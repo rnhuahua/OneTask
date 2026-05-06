@@ -1,4 +1,4 @@
-// /include/OneTaskCore/monitor/monitor.h
+// /include/OneTask/monitor/monitor.h
 #pragma once
 #include <cstdint>
 #include <unordered_map>

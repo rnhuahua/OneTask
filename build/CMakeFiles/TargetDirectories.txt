@@ -1,0 +1,4 @@
+/mnt/c/Users/25637/Desktop/Github/OneTask/build/CMakeFiles/OneTask.dir
+/mnt/c/Users/25637/Desktop/Github/OneTask/build/CMakeFiles/onetask_demo.dir
+/mnt/c/Users/25637/Desktop/Github/OneTask/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/25637/Desktop/Github/OneTask/build/CMakeFiles/rebuild_cache.dir

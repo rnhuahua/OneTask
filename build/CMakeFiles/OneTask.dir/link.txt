@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOneTask.a CMakeFiles/OneTask.dir/src/monitor/monitor.cpp.o CMakeFiles/OneTask.dir/src/scheduler/scheduler.cpp.o CMakeFiles/OneTask.dir/src/threadpool/thread_pool.cpp.o
+/usr/bin/ranlib libOneTask.a

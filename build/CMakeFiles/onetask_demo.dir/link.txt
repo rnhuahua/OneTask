@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/onetask_demo.dir/demo/simpledemo.cpp.o -o onetask_demo  libOneTask.a 
